@@ -205,7 +205,7 @@
 	<Profile sr="prof52" ve="2">
 		<cdate>1774857600000</cdate>
 		<edate>1774857600000</edate>
-		<flags>8</flags>
+		<flags>9</flags>
 		<id>52</id>
 		<mid0>19</mid0>
 		<nme>Shift Briefing</nme>
@@ -878,6 +878,11 @@
 			<Str sr="arg1" ve="3">4</Str>
 		</Action>
 		<Action sr="act4" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Shift Briefing Announce</Str>
+			<Int sr="arg1" val="9"/>
+		</Action>
+		<Action sr="act5" ve="7">
 			<code>130</code>
 			<Str sr="arg0" ve="3">TTS Dispatcher</Str>
 			<Int sr="arg1" val="9"/>
