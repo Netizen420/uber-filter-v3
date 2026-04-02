@@ -160,7 +160,7 @@
 	<Profile sr="prof48" ve="2">
 		<cdate>1774857600000</cdate>
 		<edate>1774857600000</edate>
-		<flags>8</flags>
+		<flags>9</flags>
 		<id>48</id>
 		<mid0>20</mid0>
 		<nme>Control Panel</nme>
@@ -190,7 +190,7 @@
 	<Profile sr="prof51" ve="2">
 		<cdate>1774857600000</cdate>
 		<edate>1774857600000</edate>
-		<flags>8</flags>
+		<flags>9</flags>
 		<id>51</id>
 		<mid0>24</mid0>
 		<mid1>25</mid1>
