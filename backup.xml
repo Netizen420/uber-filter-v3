@@ -23,20 +23,6 @@
 			<Int sr="arg7" val="0"/>
 		</Event>
 	</Profile>
-	<Profile sr="prof41" ve="2">
-		<cdate>1774857600000</cdate>
-		<edate>1774857600000</edate>
-		<flags>9</flags>
-		<id>41</id>
-		<mid0>1</mid0>
-		<nme>Offer Screen Fallback</nme>
-		<App sr="con0" ve="2">
-			<cls0>com.ubercab.carbon.core.CarbonActivity</cls0>
-			<flags>2</flags>
-			<label0>Uber Driver</label0>
-			<pkg0>com.ubercab.driver</pkg0>
-		</App>
-	</Profile>
 	<Profile sr="prof42" ve="2">
 		<cdate>1774857600000</cdate>
 		<edate>1774857600000</edate>
@@ -157,20 +143,6 @@
 			<Int sr="arg7" val="0"/>
 		</Event>
 	</Profile>
-	<Profile sr="prof48" ve="2">
-		<cdate>1774857600000</cdate>
-		<edate>1774857600000</edate>
-		<flags>9</flags>
-		<id>48</id>
-		<mid0>20</mid0>
-		<nme>Control Panel</nme>
-		<App sr="con0" ve="2">
-			<cls0>com.ubercab.carbon.core.CarbonActivity</cls0>
-			<flags>2</flags>
-			<label0>Uber Driver</label0>
-			<pkg0>com.ubercab.driver</pkg0>
-		</App>
-	</Profile>
 	<Profile sr="prof50" ve="2">
 		<cdate>1774857600000</cdate>
 		<edate>1774857600000</edate>
@@ -186,35 +158,6 @@
 			<th>23</th>
 			<tm>59</tm>
 		</Time>
-	</Profile>
-	<Profile sr="prof51" ve="2">
-		<cdate>1774857600000</cdate>
-		<edate>1774857600000</edate>
-		<flags>9</flags>
-		<id>51</id>
-		<mid0>24</mid0>
-		<mid1>25</mid1>
-		<nme>Screen Keep On</nme>
-		<App sr="con0" ve="2">
-			<cls0>com.ubercab.carbon.core.CarbonActivity</cls0>
-			<flags>2</flags>
-			<label0>Uber Driver</label0>
-			<pkg0>com.ubercab.driver</pkg0>
-		</App>
-	</Profile>
-	<Profile sr="prof52" ve="2">
-		<cdate>1774857600000</cdate>
-		<edate>1774857600000</edate>
-		<flags>9</flags>
-		<id>52</id>
-		<mid0>19</mid0>
-		<nme>Shift Briefing</nme>
-		<App sr="con0" ve="2">
-			<cls0>com.ubercab.carbon.core.CarbonActivity</cls0>
-			<flags>2</flags>
-			<label0>Uber Driver</label0>
-			<pkg0>com.ubercab.driver</pkg0>
-		</App>
 	</Profile>
 	<Profile sr="prof53" ve="2">
 		<cdate>1774857600000</cdate>
@@ -292,7 +235,7 @@
 		<cdate>1774857481557</cdate>
 		<mdate>1774863179560</mdate>
 		<name>Uber Filter V3</name>
-		<pids>40,41,42,43,44,45,46,47,48,50,51,52,53,54,55,56</pids>
+		<pids>40,42,43,44,45,46,47,50,53,54,55,56</pids>
 		<tids>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,100,999</tids>
 		<Img sr="icon" ve="2">
 			<nme>mw_action_home</nme>
