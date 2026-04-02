@@ -1,0 +1,42 @@
+{
+  "recurring": {
+    "disneyland": {
+      "city": "Anaheim",
+      "close_sun_thu": "22:00",
+      "close_fri_sat": "24:00",
+      "surge_window_min": 15,
+      "surge_duration_min": 90,
+      "position_at": "Harbor & Katella",
+      "weight_boost": 0.30
+    },
+    "honda_center": {
+      "city": "Anaheim",
+      "event_days": "check_calendar",
+      "typical_end": "22:30",
+      "surge_duration_min": 60,
+      "position_at": "Katella & Douglass",
+      "weight_boost": 0.25
+    },
+    "angel_stadium": {
+      "city": "Anaheim",
+      "typical_end": "22:00",
+      "surge_duration_min": 75,
+      "position_at": "Orangewood & State College"
+    },
+    "bar_close": {
+      "time": "02:00",
+      "surge_window_min": -15,
+      "surge_duration_min": 60,
+      "hotspot_cities": ["Newport Beach", "Huntington Beach", "Fullerton"],
+      "weight_boost": 0.35
+    },
+    "sna_airport": {
+      "city": "Santa Ana",
+      "peak_hours": "20:00-23:00",
+      "surge_duration_min": 120,
+      "position_at": "Airport Area",
+      "weight_boost": 0.20
+    }
+  },
+  "one_time": []
+}
